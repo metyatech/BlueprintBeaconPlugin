@@ -1,0 +1,10 @@
+{
+  // Rules source. Use github:owner/repo@ref or a local path.
+  "source": "github:metyatech/agent-rules@HEAD",
+  // Domain folders under rules/domains.
+  "domains": [],
+  // Additional local rule files to append.
+  "extra": [],
+  // Output file name.
+  "output": "AGENTS.md"
+}
